@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: Post-doctoral Researcher, <a href='#'>Cava Group</a>, Umeå University, Sweden
+subtitle: Post-doctoral Researcher, <a href='https://thecavalab.com'>Cava Group</a>, Umeå University, Sweden
 
 profile:
   align: right
-  image: prof_pic.jpg
+  # image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     
