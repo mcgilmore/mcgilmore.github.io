@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Post-doctoral Researcher, <a href='#'>Cava Group</a>, Umeå University
+subtitle: Post-doctoral Researcher, <a href='#'>Cava Group</a>, Umeå University, Sweden
 
 profile:
   align: right
