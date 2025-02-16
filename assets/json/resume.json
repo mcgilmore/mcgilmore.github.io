@@ -1,6 +1,6 @@
 {
   "basics": {
-    "name": "Michael Gilmore",
+    "name": "Michael C. Gilmore",
     "label": "",
     "image": "",
     "email": "michael_gilmore@live.com",
@@ -28,8 +28,8 @@
       "location": "Umeå, Sweden",
       "position": "Post-doctoral researcher",
       "url": "https://thecavalab.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
+      "startDate": "2024-06-01",
+      "endDate": "Present",
       "summary": "",
       "highlights": ["Cell envelope"]
     }
@@ -70,7 +70,7 @@
       "level": "",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        
+
       ]
     }
   ],
@@ -86,7 +86,7 @@
       "name": "",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        
+
       ]
     }
   ],
@@ -103,6 +103,6 @@
     }
   ],
   "projects": [
-    
+
   ]
 }
