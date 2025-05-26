@@ -186,6 +186,7 @@ exclude:
   - _posts/
   - _pages/blog.md
   - _pages/profiles.md
+  - _pages/cv.md
   - _news/
   - _projects/
 keep_files:
