@@ -55,30 +55,11 @@
       "endDate": "2024-04-19"
     }
   ],
-  "skills": [
-    {
-      "name": "",
-      "level": "",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-
-      ]
-    }
-  ],
   "languages": [
     {
       "language": "English",
       "fluency": "Native Speaker",
       "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-
-      ]
     }
   ],
   "projects": [
