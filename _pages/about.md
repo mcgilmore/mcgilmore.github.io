@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Post-doctoral Researcher, <a href='https://thecavalab.com'>Cava Group</a>, Umeå University, Sweden
+# subtitle: 
 
 profile:
   align: right
@@ -24,5 +24,3 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-
-
